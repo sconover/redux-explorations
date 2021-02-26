@@ -1,4 +1,4 @@
-This is a really rudimentary simulation of a classic 3-page messaging app,
+This is a really rudimentary simulation of a classic 3-pane messaging app,
 e.g. iMessage or Whatsapp.
 
 - Emphasis on modularity, that enables "scaling"
